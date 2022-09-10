@@ -32,6 +32,17 @@ I have eleven years experience of working in a team and solving various tasks. M
    * SQL (basic)
    * Git & GitHub
 ***
+## Code Example
+```
+let obj = {
+  red: 1,
+  yellow: 2,
+  green: 5
+};
+
+alert( obj.red + obj.yellow + obj.green );
+``` 
+***
 ## Languages:
 1. English - Pre Intermediate
 2. Polish - Pre Intermediate
